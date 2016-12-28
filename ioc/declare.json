@@ -1,0 +1,16 @@
+{
+  "logger": {
+    "service": "logger",
+    "methods": {
+      "info": "info",
+      "warn": "warn"
+    }
+  },
+  "database": {
+    "service": "database",
+    "methods": {
+      "query": "query",
+      "update": "update"
+    }
+  }
+}
